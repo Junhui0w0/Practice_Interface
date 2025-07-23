@@ -3,6 +3,6 @@
 Tkinter & PyQT5를 위주로 학습할 예정 
 
 # 2025-07-23 #
-기본적인 main GUI 생성 \
-Button, Entry 구현 \
-StringVar + Callback 함수를 통한 Entry 값 실시간 업데이트 
+1. 기본적인 main GUI 생성
+2. Button, Entry 구현
+3. StringVar + Callback 함수를 통한 Entry 값 실시간 업데이트

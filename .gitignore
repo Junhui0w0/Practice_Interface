@@ -195,6 +195,7 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+0730/mongoDB_account.txt
 
 # Windows shortcuts
 *.lnk

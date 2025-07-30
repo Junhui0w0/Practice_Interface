@@ -13,3 +13,10 @@ Tkinter & PyQT5를 위주로 학습할 예정
 # 2025-07-28 #
 1. SQLite3를 활용한 회원가입 기능 구현
 2. SQLite3를 활용한 로그인 기능 구현
+
+# 2025-07-30 #
+1. MongoDB를 활용한 회원가입 기능 구현
+2. MongoDB를 활용한 로그인 기능 구현
+3. 고등학생 때 만든 프로그램에 로그인 기능 추가 (https://github.com/Junhui0w0/TexturepackTransistor)
+    - 기존에는 PW를 현재 날짜를 이용해 구현 (보안상 이슈)
+    - MongoDB를 이용해 UserID, UserPW로 로그인 가능

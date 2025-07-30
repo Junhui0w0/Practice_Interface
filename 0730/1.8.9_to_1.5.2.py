@@ -55,7 +55,6 @@ def myfunc():
         else:
             path.config(text="!! 폴더 이름을 설정해주세요 !!", fg="red")
 
-
 # 실행
 def EXE(my_id, my_pw):
     result = get_userinfo(my_id, my_pw)

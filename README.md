@@ -20,3 +20,7 @@ Tkinter & PyQT5를 위주로 학습할 예정
 3. 고등학생 때 만든 프로그램에 로그인 기능 추가 (https://github.com/Junhui0w0/TexturepackTransistor)
     - 기존에는 PW를 현재 날짜를 이용해 구현 (보안상 이슈)
     - MongoDB를 이용해 UserID, UserPW로 로그인 가능
+
+# 2025-07-31 #
+1. 한컴타자 타이핑 텍스트를 활용한 타자연습 프로그램 제작
+2. MongoDB를 통해 회원가입, 로그인, 정답 기록 저장 및 불러오기 구현
